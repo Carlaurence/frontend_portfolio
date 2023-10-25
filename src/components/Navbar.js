@@ -43,10 +43,6 @@ const Navbar = () => {
                 </ul>
             </div>
 
-            <div className="hidden md:flex items-center justify-center w-[15%]">
-                <button className="bg-yellow-400 font-semibold w-20 h-7 rounded-2xl hover:opacity-70">Sign In</button>
-            </div>
-
 
             {/* Setting Mobile Nav */}
 

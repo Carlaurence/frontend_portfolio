@@ -19,7 +19,7 @@ const About = () => {
 
 
 
-                    <div className=" flex flex-col gap-2 text-white text-justify text-[17px]  px-[40px] md:px-[0px] lg:px-[0px] md:pl-[40px] lg:pl-[70px]">
+                    <div className=" flex flex-col gap-2 text-white text-justify text-[16px]  px-[40px] md:px-[0px] lg:px-[0px] md:pl-[40px] lg:pl-[70px]">
                         <h1 className="flex justify-center items-center w-full font-semibold">ABOUT ME</h1>
                         <span>I am an Industrial Engineer with over 20 years of experience working in the
                             automotive industry as a service manager. However, during the pandemic, I faced
