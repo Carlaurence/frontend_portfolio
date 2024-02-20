@@ -44,7 +44,7 @@ const Projects = () => {
 
                     <div className="mb-6 flex flex-col text-white text-base w-[340px] md:w-[340px] lg:w-[400px]">
                         <h1 className="flex justify-center items-center text-[14px] md:text-[14px] lg:text-[16px] uppercase">Working on my first project as a freelance</h1>
-                        <Link target="_blank" to={'https://frontend-multicomerciales.vercel.app/'}>
+                        <Link target="_blank" to={'https://frontend-multicamiones.vercel.app/'}>
                             <img className="w-full h-[250px] rounded-xl border-2 border-black opacity-70 hover:opacity-90" src={multicomerciales} alt="#image1"></img>
                         </Link>
 
